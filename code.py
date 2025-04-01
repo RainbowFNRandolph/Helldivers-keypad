@@ -119,7 +119,7 @@ for key in keys:
             # Press each key in the strat_code
             for keycode in strat_code:
                 keyboard.press(keycode)
-                time.sleep(0.1)  # Short delay to mimic human input
+                time.sleep(0.1)  # Short delay
                 keyboard.release(keycode)
                 time.sleep(0.1)
 
