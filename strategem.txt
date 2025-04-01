@@ -1,0 +1,55 @@
+# Anti-Material Rifle  
+# Anti-Personnel Mines  
+# Anti-Tank Mines  
+# Arc Thrower  
+# Autocannon  
+# Autocannon Sentry  
+# Ballistic Shield Backpack  
+# Eagle 110MM Rocket Pods  
+# Eagle 500KG Bomb  
+# Eagle Airstrike  
+# Eagle Cluster Bomb  
+# Eagle Napalm Airstrike  
+# Eagle Smoke Strike  
+# Eagle Strafing Run  
+# EMS Mortar Sentry  
+# Expendable Anti-Tank  
+# Fast Recon Vehicle  
+# Flamethrower  
+# Gatling Sentry  
+# Grenade Launcher  
+# Guard Dog  
+# Guard Dog Rover  
+# Hellbomb  
+# HMG Emplacement  
+# Incendiary Mines  
+# Jump Pack  
+# Laser Cannon  
+# Machine Gun  
+# Machine Gun Sentry  
+# Mortar Sentry  
+# Orbital 120MM HE Barrage  
+# Orbital 380MM HE Barrage  
+# Orbital Airburst Strike  
+# Orbital EMS Strike  
+# Orbital Gas Strike  
+# Orbital Gatling Barrage  
+# Orbital Laser Strike  
+# Orbital Precision Strike  
+# Orbital Railcannon Strike  
+# Orbital Smoke Strike  
+# Orbital Walking Barrage  
+# Recoilless Rifle  
+# Railgun  
+# Reinforce  
+# Resupply  
+# Rocket Sentry  
+# Shield Generator Pack  
+# Shield Generator Relay  
+# SOS Beacon  
+# Spear  
+# Stalwart  
+# Super Earth Flag  
+# Supply Pack  
+# Tesla Tower  
+# Upload Data  
